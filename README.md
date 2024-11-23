@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amir1887
+- 👋 Hi, I’m Amir
 - 👀 I’m interested in full stack development(with experience in HTML, CSS, JavaScript, Tailwind CSS, React JS, Node.js, Express.js, MongoDB, SQL, PostgreSQL, Firebase, Git, and GitHub. I’ve built a full-stack online learning platform, which you can check out on my GitHub)
 - 🌱 I’m currently learning more advanced backend technologies and cloud solutions to enhance my full-stack development skills.
 - 💞️ I’m looking to collaborate on tech-driven projects related to disaster management, education, and medical technology.
