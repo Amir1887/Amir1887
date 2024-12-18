@@ -1,4 +1,6 @@
 👋 Hi, I’m Amir!
+
+
 💡 About Me:
 I am a doctor who graduated with honors (Excellence with Honor grade), but my passion for programming led me to transition into a career as a Full Stack Developer. With 1.5 years of hands-on experience, I specialize in creating impactful, scalable solutions using modern technologies.
 
