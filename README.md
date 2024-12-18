@@ -1,10 +1,30 @@
-- 👋 Hi, I’m Amir
-- 👀 I’m interested in full stack development(with experience in HTML, CSS, JavaScript, Tailwind CSS, React JS, Node.js, Express.js, MongoDB, SQL, PostgreSQL, Firebase, Git, and GitHub. I’ve built a full-stack online learning platform, which you can check out on my GitHub)
-- 🌱 I’m currently learning more advanced backend technologies and cloud solutions to enhance my full-stack development skills.
-- 💞️ I’m looking to collaborate on tech-driven projects related to disaster management, education, and medical technology.
-- 📫 How to reach me: You can find my projects on GitHub at https://github.com/Amir1887 or email me at [amiradel1234567@gmail.com] or [amir-a-gad@students.kasralainy.edu.eg].
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:I graduated from the faculty of medicine. My passion for programming, however, began before that, and since then I’ve fully transitioned into development..
+👋 Hi, I’m Amir!
+💡 About Me:
+I am a doctor who graduated with honors (Excellence with Honor grade), but my passion for programming led me to transition into a career as a Full Stack Developer. With 1.5 years of hands-on experience, I specialize in creating impactful, scalable solutions using modern technologies.
+
+🌟 Technologies I Work With:
+- Frontend: JavaScript, React, Retool, Tailwind CSS, Material UI
+- Backend: Node.js, Express.js, Prisma
+- Databases: MongoDB, SQL, PostgreSQL
+- Tools: Git, GitHub, CI/CD, Postman
+- Others: MERN Stack, TypeScript
+
+  🏆 Notable Achievements:
+- Hackathon Winner: Developed the Myanmar Flood Platform to manage flood events, showcasing real-time updates, disaster insights, and community engagement.
+- Built diverse projects, including real-time messaging apps, data-driven platforms, and educational tools.
+
+
+🚀 What I’m Learning:
+I’m currently diving deeper into advanced backend technologies, cloud solutions, CI/CD workflows, and TypeScript to enhance my development expertise.
+
+
+📫 Reach Me At:
+- GitHub: Amir1887
+- Email: amiradel1234567@gmail.com or amir-a-gad@students.kasralainy.edu.eg
+
+  
+😄 Pronouns: He/Him
+
 
 
 <!---
